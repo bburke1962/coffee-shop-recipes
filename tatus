@@ -1,0 +1,13 @@
+[1mdiff --git a/hot-beverages/caffe-latte.md b/hot-beverages/caffe-latte.md[m
+[1mindex be4f6a4..a71914e 100644[m
+[1m--- a/hot-beverages/caffe-latte.md[m
+[1m+++ b/hot-beverages/caffe-latte.md[m
+[36m@@ -5,7 +5,7 @@[m
+ ## Ingredients[m
+ [m
+ - 1 oz espresso roast[m
+[31m-- 1 cup whole milk[m
+[32m+[m[32m- 1 cup almond milk[m
+ - Milk frother[m
+ - Optional sweetener[m
+ [m
